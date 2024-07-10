@@ -136,21 +136,6 @@ Contributions are what make the open source community such an amazing place to b
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
-<!-- CONTACT -->
-## Contact
-
-Greydon Gilmore - [@GilmoreGreydon](https://twitter.com/GilmoreGreydon) - greydon.gilmore@gmail.com
-
-Project Link: [https://github.com/greydongilmore/ocr-pdf](https://github.com/greydongilmore/ocr-pdf)
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* README format was adapted from [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/greydongilmore/ocr-pdf.svg?style=for-the-badge
